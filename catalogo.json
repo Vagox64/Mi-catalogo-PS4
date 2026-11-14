@@ -6612,7 +6612,11 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07010.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 0.21 GB",
-      "releases": []
+      "releases": [{
+    "name": "Enlace 1",
+    "url": "https://1fichier.com/?7gbcpiccoab9jfid3n0t"
+  }
+      ]
     },
     {
       "id": "CUSA30448",
