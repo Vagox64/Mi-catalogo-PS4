@@ -2,5 +2,17 @@
 {
   "version": 1,
   "name": "Mi catalogo PS4",
-  "games": []
+  "games": [
+    {
+      "id": "HOMEbrew001",
+      "title": "Juego de prueba",
+      "platform": "ps4",
+      "releases": [
+        {
+          "url": "https://ejemplo.com/juego.pkg",
+          "format": "pkg"
+        }
+      ]
+    }
+  ]
 }
