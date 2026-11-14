@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "name": "Mi catalogo PS4 - Metadatos Pegasus",
+  "name": "Mi catalogo PS4 - Metadatos y referencias SuperPSX",
   "games": [
     {
       "id": "CUSA09267",
@@ -9,7 +9,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09267.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 7.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/a-hat-in-time-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4ahi/"
     },
     {
       "id": "CUSA29979",
@@ -27,7 +29,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10812.png",
       "description": "Region: EUR\nVersion: 01.09\nMin FW: 9.00\nSize: 35.59 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/a-plague-tale-innocence-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-aptips4/"
     },
     {
       "id": "CUSA30277",
@@ -36,7 +40,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA30277.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.29 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/a-short-hike-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ashps4/"
     },
     {
       "id": "CUSA07995",
@@ -45,7 +51,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07995.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 16.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/a-way-out-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4awo/"
     },
     {
       "id": "CUSA03364",
@@ -72,7 +80,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02572.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 1.87 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/adr1ft-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-a1tps4/"
     },
     {
       "id": "CUSA06782",
@@ -99,7 +109,9 @@
       "version": "01.64",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16473.png",
       "description": "Region: USA\nVersion: 01.64\nMin FW: 9.00\nSize: 1.56 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/astroneer-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-astrps4/"
     },
     {
       "id": "CUSA18271",
@@ -126,7 +138,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA45443.png",
       "description": "Region: JAP\nVersion: 01.01\nMin FW: 9.00\nSize: 6.98 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/ace-attorney-investigations-collection-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-aaicps4/"
     },
     {
       "id": "CUSA24653",
@@ -135,7 +149,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24653.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 28.38 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/alan-wake-remastered-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-awrps4/"
     },
     {
       "id": "CUSA00362",
@@ -171,7 +187,9 @@
       "version": "01.81",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA40994.png",
       "description": "Region: USA\nVersion: 01.81\nMin FW: 9.00\nSize: 8.48 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/amnesia-the-bunker-ps4/",
+      "source_download_page": "https://www.superpsx.com/dll-atbps4/"
     },
     {
       "id": "CUSA02480",
@@ -189,7 +207,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14954.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 11.51 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/ancestors-legacy-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-alps4/"
     },
     {
       "id": "CUSA13248",
@@ -216,7 +236,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14332.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 5.84 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/ashen-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-asnps4/"
     },
     {
       "id": "CUSA03440",
@@ -324,7 +346,9 @@
       "version": "01.20",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01830.png",
       "description": "Region: USA\nVersion: 01.20\nMin FW: 9.00\nSize: 20.70 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/assetto-corsa-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4ac/"
     },
     {
       "id": "CUSA17266",
@@ -333,7 +357,9 @@
       "version": "01.12",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA17266.png",
       "description": "Region: EUR\nVersion: 01.12\nMin FW: 9.00\nSize: 10.78 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/assetto-corsa-competizione-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-accps4/"
     },
     {
       "id": "CUSA07214",
@@ -369,7 +395,9 @@
       "version": "01.22",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA42503.png",
       "description": "Region: USA\nVersion: 01.22\nMin FW: 9.00\nSize: 33.62 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/atomfall-deluxe-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-afdeps4/"
     },
     {
       "id": "CUSA37321",
@@ -387,7 +415,9 @@
       "version": "01.11",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08956.png",
       "description": "Region: USA\nVersion: 01.11\nMin FW: 9.00\nSize: 31.01 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/attack-on-titan-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-aot2ps4-2/"
     },
     {
       "id": "CUSA03804",
@@ -405,7 +435,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01230.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 0.16 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/axiom-verge-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4av/"
     },
     {
       "id": "CUSA29346",
@@ -423,7 +455,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24813.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 9.49 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/balan-wonderworld-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-bwps4/"
     },
     {
       "id": "CUSA00135",
@@ -531,7 +565,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04602.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 26.00 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/batman-arkham-city-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4bac/"
     },
     {
       "id": "CUSA02429",
@@ -576,7 +612,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16163.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 9.19 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/bayonetta-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-byntaps4/"
     },
     {
       "id": "CUSA13615",
@@ -630,7 +668,9 @@
       "version": "02.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09848.png",
       "description": "Region: EUR\nVersion: 02.09\nMin FW: 9.00\nSize: 6.92 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/biomutant-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-bmps4/"
     },
     {
       "id": "CUSA03980",
@@ -648,7 +688,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA40851.png",
       "description": "Region: EUR\nVersion: 01.06\nMin FW: 9.00\nSize: 0.96 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/black-skylands-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-bksdps4/"
     },
     {
       "id": "CUSA18085",
@@ -675,7 +717,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA44317.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 2.62 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/blasphemous-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-bm2ps4/"
     },
     {
       "id": "CUSA03173",
@@ -693,7 +737,9 @@
       "version": "01.23",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA28188.png",
       "description": "Region: EUR\nVersion: 01.23\nMin FW: 9.00\nSize: 0.74 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/bonfire-peaks-complete-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-bpceps4/"
     },
     {
       "id": "CUSA10455",
@@ -720,7 +766,9 @@
       "version": "01.30",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07823.png",
       "description": "Region: USA\nVersion: 01.30\nMin FW: 9.00\nSize: 52.25 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/borderlands-3-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-b3ps4/"
     },
     {
       "id": "CUSA04380",
@@ -747,7 +795,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA35719.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 6.34 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/bramble-the-mountain-king-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-btmkps4/"
     },
     {
       "id": "CUSA05330",
@@ -756,7 +806,9 @@
       "version": "01.50",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05330.png",
       "description": "Region: EUR\nVersion: 01.50\nMin FW: 9.00\nSize: 0.67 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/brawlhalla-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4blha/"
     },
     {
       "id": "CUSA03887",
@@ -765,7 +817,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03887.png",
       "description": "Region: EUR\nVersion: 01.07\nMin FW: 9.00\nSize: 0.42 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/broforce-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-bcps4/"
     },
     {
       "id": "CUSA40582",
@@ -783,7 +837,9 @@
       "version": "02.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24504.png",
       "description": "Region: USA\nVersion: 02.08\nMin FW: 9.00\nSize: 5.16 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/bugsnax-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-bsnxps4/"
     },
     {
       "id": "CUSA07188",
@@ -801,7 +857,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10866.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 6.31 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/burnout-paradise-remastered-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-bprps4/"
     },
     {
       "id": "CUSA14925",
@@ -810,7 +868,9 @@
       "version": "02.28",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14925.png",
       "description": "Region: EUR\nVersion: 02.28\nMin FW: 9.00\nSize: 5.59 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/bus-simulator-21-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-bslt21ps4/"
     },
     {
       "id": "CUSA10410",
@@ -819,7 +879,9 @@
       "version": "01.53",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10410.png",
       "description": "Region: USA\nVersion: 01.53\nMin FW: 9.00\nSize: 28.86 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/code-vein-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-cvps4/"
     },
     {
       "id": "CUSA31349",
@@ -837,7 +899,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA23370.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 5.25 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/call-of-the-sea-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-cotsps4/"
     },
     {
       "id": "CUSA04730",
@@ -846,7 +910,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04730.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 9.79 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/call-of-cthulhu-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-cocps4/"
     },
     {
       "id": "CUSA00803",
@@ -855,7 +921,9 @@
       "version": "01.24",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00803.png",
       "description": "Region: USA\nVersion: 01.24\nMin FW: 9.00\nSize: 62.37 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/call-of-duty-advanced-warfare-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4codaw/"
     },
     {
       "id": "CUSA11100",
@@ -864,7 +932,9 @@
       "version": "01.26",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11100.png",
       "description": "Region: USA\nVersion: 01.26\nMin FW: 9.00\nSize: 98.63 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/call-of-duty-black-ops-4-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-codbo4/"
     },
     {
       "id": "CUSA23827",
@@ -873,7 +943,9 @@
       "version": "01.58",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA23827.png",
       "description": "Region: USA\nVersion: 01.58\nMin FW: 9.00\nSize: 41.02 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/call-of-duty-black-ops-6-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-codbo6ps4/"
     },
     {
       "id": "CUSA15010",
@@ -900,7 +972,9 @@
       "version": "01.21",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00018.png",
       "description": "Region: USA\nVersion: 01.21\nMin FW: 9.00\nSize: 42.10 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/call-of-duty-ghosts-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4codg/"
     },
     {
       "id": "CUSA04762",
@@ -909,7 +983,9 @@
       "version": "01.25",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04762.png",
       "description": "Region: USA\nVersion: 01.25\nMin FW: 9.00\nSize: 85.83 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/call-of-duty-infinite-warfare-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4codiw/"
     },
     {
       "id": "CUSA03522",
@@ -963,7 +1039,9 @@
       "version": "01.26",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24041.png",
       "description": "Region: USA\nVersion: 01.26\nMin FW: 9.00\nSize: 59.82 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/call-of-duty-vanguard-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-codvgps4-2/"
     },
     {
       "id": "CUSA05969",
@@ -972,7 +1050,9 @@
       "version": "01.25",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05969.png",
       "description": "Region: USA\nVersion: 01.25\nMin FW: 9.00\nSize: 89.50 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/call-of-duty-wwii-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-codw2ps4/"
     },
     {
       "id": "CUSA27770",
@@ -981,7 +1061,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27770.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 0.23 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/carrion-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-crnps4/"
     },
     {
       "id": "CUSA23985",
@@ -990,7 +1072,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA23985.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 0.56 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/carto-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ctps4-3/"
     },
     {
       "id": "CUSA14836",
@@ -1008,7 +1092,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11302.png",
       "description": "Region: USA\nVersion: 01.05\nMin FW: 9.00\nSize: 1.33 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/celeste-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-cstps4-2/"
     },
     {
       "id": "CUSA29547",
@@ -1017,7 +1103,9 @@
       "version": "01.13",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA29547.png",
       "description": "Region: EUR\nVersion: 01.13\nMin FW: 9.00\nSize: 0.76 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/chained-echoes-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ceps4/"
     },
     {
       "id": "CUSA28037",
@@ -1026,7 +1114,9 @@
       "version": "01.12",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA28037.png",
       "description": "Region: EUR\nVersion: 01.12\nMin FW: 9.00\nSize: 10.62 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/chernobylite-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-chnobps4/"
     },
     {
       "id": "CUSA06580",
@@ -1035,7 +1125,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06580.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 2.22 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/chess-ultra-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-csutps4/"
     },
     {
       "id": "CUSA20204",
@@ -1053,7 +1145,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00339.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 2.12 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/child-of-light-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4col/"
     },
     {
       "id": "CUSA12286",
@@ -1071,7 +1165,9 @@
       "version": "06.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06548.png",
       "description": "Region: USA\nVersion: 06.02\nMin FW: 9.00\nSize: 7.09 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/cities-skylines-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4cs/"
     },
     {
       "id": "CUSA40576",
@@ -1080,7 +1176,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA40576.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 0.47 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/citizen-sleeper-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ctzsprps4/"
     },
     {
       "id": "CUSA34963",
@@ -1089,7 +1187,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA34963.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 1.41 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/cocoon-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-cnps4/"
     },
     {
       "id": "CUSA32951",
@@ -1098,7 +1198,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32951.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 0.42 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/coffee-talk-episode-2-hibiscus-butterfly-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-cte2hbps4/"
     },
     {
       "id": "CUSA18112",
@@ -1125,7 +1227,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11834.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 8.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/concrete-genie-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-cgps4/"
     },
     {
       "id": "CUSA11454",
@@ -1134,7 +1238,9 @@
       "version": "01.12",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11454.png",
       "description": "Region: EUR\nVersion: 01.12\nMin FW: 9.00\nSize: 34.62 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/control-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ctrlps4/"
     },
     {
       "id": "CUSA23970",
@@ -1188,7 +1294,9 @@
       "version": "01.30",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA43293.png",
       "description": "Region: EUR\nVersion: 01.30\nMin FW: 9.00\nSize: 49.70 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/cricket-24-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ckt24ps4/"
     },
     {
       "id": "CUSA10268",
@@ -1206,7 +1314,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA45566.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 0.74 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/crow-country-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ccps4/"
     },
     {
       "id": "CUSA03610",
@@ -1224,7 +1334,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18671.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 10.52 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/crysis-remastered-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-csrps4/"
     },
     {
       "id": "CUSA18672",
@@ -1251,7 +1363,9 @@
       "version": "01.29",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32184.png",
       "description": "Region: EUR\nVersion: 01.29\nMin FW: 9.00\nSize: 4.11 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/cult-of-the-lamb-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-cotlps4/"
     },
     {
       "id": "CUSA20499",
@@ -1260,7 +1374,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20499.png",
       "description": "Region: USA\nVersion: 01.05\nMin FW: 9.00\nSize: 5.05 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/cuphead-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-chps4/"
     },
     {
       "id": "CUSA16579",
@@ -1305,7 +1421,9 @@
       "version": "01.23",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA45600.png",
       "description": "Region: EUR\nVersion: 01.23\nMin FW: 9.00\nSize: 3.19 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dave-the-diver-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dtdps4/"
     },
     {
       "id": "CUSA09175",
@@ -1323,7 +1441,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04513.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 7.50 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dead-rising-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4dr/"
     },
     {
       "id": "CUSA12605",
@@ -1359,7 +1479,9 @@
       "version": "01.12",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02092.png",
       "description": "Region: EUR\nVersion: 01.12\nMin FW: 9.00\nSize: 49.80 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/doom-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4doom/"
     },
     {
       "id": "CUSA15595",
@@ -1377,7 +1499,9 @@
       "version": "01.26",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13338.png",
       "description": "Region: USA\nVersion: 01.26\nMin FW: 9.00\nSize: 86.96 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/doom-eternal-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-deps4/"
     },
     {
       "id": "CUSA08992",
@@ -1386,7 +1510,9 @@
       "version": "01.38",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08992.png",
       "description": "Region: EUR\nVersion: 01.38\nMin FW: 9.00\nSize: 5.37 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dragon-ball-fighterz-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dbfzueps4/"
     },
     {
       "id": "CUSA01186",
@@ -1395,7 +1521,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01186.png",
       "description": "Region: EUR\nVersion: 01.07\nMin FW: 9.00\nSize: 9.53 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dragon-ball-xenoverse-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4dbxen/"
     },
     {
       "id": "CUSA05088",
@@ -1404,7 +1532,9 @@
       "version": "01.45",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05088.png",
       "description": "Region: EUR\nVersion: 01.45\nMin FW: 9.00\nSize: 21.93 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dragon-ball-xenoverse-2-deluxe-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dbx2de/"
     },
     {
       "id": "CUSA14835",
@@ -1413,7 +1543,9 @@
       "version": "02.11",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14835.png",
       "description": "Region: EUR\nVersion: 02.11\nMin FW: 9.00\nSize: 49.77 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dragon-ball-z-kakarot-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dbzkps4/"
     },
     {
       "id": "CUSA05170",
@@ -1422,7 +1554,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05170.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 0.84 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dragon-quest-builders-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dqbps4/"
     },
     {
       "id": "CUSA11230",
@@ -1431,7 +1565,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11230.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 2.28 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dragon-quest-builders-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dqb2ps4/"
     },
     {
       "id": "CUSA06740",
@@ -1467,7 +1603,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18600.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 28.19 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dragon-quest-xi-s-echoes-of-an-elusive-age-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dqxiseeaps4/"
     },
     {
       "id": "CUSA35761",
@@ -1476,7 +1614,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA35761.png",
       "description": "Region: EUR\nVersion: 01.08\nMin FW: 9.00\nSize: 0.81 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dredge-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dgps4/"
     },
     {
       "id": "CUSA00003",
@@ -1521,7 +1661,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12979.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 8.39 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/darksiders-genesis-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dgps4-2/"
     },
     {
       "id": "CUSA02419",
@@ -1548,7 +1690,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13413.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 2.04 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/darkwood-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dwps4/"
     },
     {
       "id": "CUSA01959",
@@ -1557,7 +1701,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01959.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 1.71 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/day-of-the-tentacle-remastered-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dottrps4/"
     },
     {
       "id": "CUSA10484",
@@ -1566,7 +1712,9 @@
       "version": "01.51",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10484.png",
       "description": "Region: EUR\nVersion: 01.51\nMin FW: 9.00\nSize: 2.29 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dead-cells-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dclsps4/"
     },
     {
       "id": "CUSA03291",
@@ -1611,7 +1759,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04313.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 7.55 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dead-rising-2-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4dr2/"
     },
     {
       "id": "CUSA04273",
@@ -1620,7 +1770,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04273.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 5.78 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dead-rising-2-off-the-record-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dr2otrps4/"
     },
     {
       "id": "CUSA08558",
@@ -1647,7 +1799,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03245.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 5.12 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/deadpool-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dplps4/"
     },
     {
       "id": "CUSA30423",
@@ -1692,7 +1846,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA36167.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 19.96 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/destroy-all-humans-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4dah2/"
     },
     {
       "id": "CUSA08344",
@@ -1755,7 +1911,9 @@
       "version": "01.29",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12819.png",
       "description": "Region: USA\nVersion: 01.29\nMin FW: 9.00\nSize: 55.99 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dirt-rally-2-0-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-dr20ps4/"
     },
     {
       "id": "CUSA18937",
@@ -1791,7 +1949,9 @@
       "version": "01.19",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA26506.png",
       "description": "Region: USA\nVersion: 01.19\nMin FW: 9.00\nSize: 8.19 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/disco-elysium-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-detfcps4/"
     },
     {
       "id": "CUSA02230",
@@ -1809,7 +1969,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03603.png",
       "description": "Region: EUR\nVersion: 01.06\nMin FW: 9.00\nSize: 46.20 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dishonored-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4dh2/"
     },
     {
       "id": "CUSA08781",
@@ -1863,7 +2025,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27999.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 1.65 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/doki-doki-literature-club-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ddlcpps4/"
     },
     {
       "id": "CUSA04236",
@@ -1890,7 +2054,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04550.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 0.05 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/downwell-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4dw/"
     },
     {
       "id": "CUSA00220",
@@ -1926,7 +2092,9 @@
       "version": "01.56",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12555.png",
       "description": "Region: EUR\nVersion: 01.56\nMin FW: 9.00\nSize: 35.38 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dying-light-2-stay-human-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-2004ps4/"
     },
     {
       "id": "CUSA03991",
@@ -1935,7 +2103,9 @@
       "version": "01.31",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03991.png",
       "description": "Region: EUR\nVersion: 01.31\nMin FW: 9.00\nSize: 17.30 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dying-light-the-following-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4dltf/"
     },
     {
       "id": "CUSA40325",
@@ -1944,7 +2114,9 @@
       "version": "01.22",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA40325.png",
       "description": "Region: EUR\nVersion: 01.22\nMin FW: 9.00\nSize: 44.38 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/ea-sports-fc-24-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-easfc24ps4/"
     },
     {
       "id": "CUSA52342",
@@ -1980,7 +2152,9 @@
       "version": "01.20",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA50617.png",
       "description": "Region: EUR\nVersion: 01.20\nMin FW: 9.00\nSize: 16.56 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/elden-ring-nightreign-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-elrntps4/"
     },
     {
       "id": "CUSA17058",
@@ -1998,7 +2172,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27286.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 0.81 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/eldest-souls-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-esps4/"
     },
     {
       "id": "CUSA43214",
@@ -2016,7 +2192,9 @@
       "version": "01.16",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01608.png",
       "description": "Region: USA\nVersion: 01.16\nMin FW: 9.00\nSize: 0.32 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/enter-the-gungeon-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-etgps4-2/"
     },
     {
       "id": "CUSA01511",
@@ -2034,7 +2212,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25569.png",
       "description": "Region: EUR\nVersion: 01.06\nMin FW: 9.00\nSize: 25.58 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/evil-west-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-elwtps4/"
     },
     {
       "id": "CUSA23188",
@@ -2043,7 +2223,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA23188.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 0.40 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/exit-the-gungeon-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-etgps4/"
     },
     {
       "id": "CUSA44233",
@@ -2052,7 +2234,9 @@
       "version": "01.22",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA44233.png",
       "description": "Region: EUR\nVersion: 01.22\nMin FW: 9.00\nSize: 19.49 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/expeditions-a-mudrunner-game-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-eamgps4/"
     },
     {
       "id": "CUSA26997",
@@ -2079,7 +2263,9 @@
       "version": "01.18",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA44372.png",
       "description": "Region: EUR\nVersion: 01.18\nMin FW: 9.00\nSize: 34.31 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/f1-24-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-f124ps4/"
     },
     {
       "id": "CUSA28066",
@@ -2088,7 +2274,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA28066.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 1.18 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/far-changing-tides-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-fctps4/"
     },
     {
       "id": "CUSA14846",
@@ -2097,7 +2285,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14846.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 0.94 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/far-lone-sails-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-flsps4/"
     },
     {
       "id": "CUSA00382",
@@ -2106,7 +2296,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00382.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/fez-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-fzps4/"
     },
     {
       "id": "CUSA33818",
@@ -2151,7 +2343,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08918.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 4.63 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/final-fantasy-ix-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ffsyixps4/"
     },
     {
       "id": "CUSA33834",
@@ -2187,7 +2381,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07211.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 67.50 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/final-fantasy-vii-remake-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ffviirps4/"
     },
     {
       "id": "CUSA08751",
@@ -2214,7 +2410,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05532.png",
       "description": "Region: USA\nVersion: 01.08\nMin FW: 9.00\nSize: 37.89 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/final-fantasy-xii-the-zodiac-age-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ffxiitzaps4/"
     },
     {
       "id": "CUSA01615",
@@ -2223,7 +2421,9 @@
       "version": "01.29",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01615.png",
       "description": "Region: EUR\nVersion: 01.29\nMin FW: 9.00\nSize: 79.94 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/final-fantasy-xv-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4ffxv/"
     },
     {
       "id": "CUSA02962",
@@ -2232,7 +2432,9 @@
       "version": "01.37",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02962.png",
       "description": "Region: EUR\nVersion: 01.37\nMin FW: 9.00\nSize: 32.89 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/fallout-4-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4fo4/"
     },
     {
       "id": "CUSA10326",
@@ -2259,7 +2461,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00496.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 22.00 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/far-cry-4-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4fc4/"
     },
     {
       "id": "CUSA05904",
@@ -2268,7 +2472,9 @@
       "version": "01.19",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05904.png",
       "description": "Region: USA\nVersion: 01.19\nMin FW: 9.00\nSize: 39.08 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/far-cry-5-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4fc5/"
     },
     {
       "id": "CUSA15778",
@@ -2286,7 +2492,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13917.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 17.55 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/far-cry-new-dawn-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-fcyudps4/"
     },
     {
       "id": "CUSA03309",
@@ -2295,7 +2503,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03309.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 11.26 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/far-cry-primal-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4fcp/"
     },
     {
       "id": "CUSA25359",
@@ -2304,7 +2514,9 @@
       "version": "01.30",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25359.png",
       "description": "Region: EUR\nVersion: 01.30\nMin FW: 9.00\nSize: 20.25 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/farming-simulator-22-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-fs22ps4/"
     },
     {
       "id": "CUSA48562",
@@ -2313,7 +2525,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA48562.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 0.69 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/fear-the-spotlight-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ftsps4-2/"
     },
     {
       "id": "CUSA17844",
@@ -2322,7 +2536,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA17844.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 0.14 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/fight-n-rage-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-fnrps4/"
     },
     {
       "id": "CUSA04107",
@@ -2412,7 +2628,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11980.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 0.57 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/floor-kids-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-fkps4/"
     },
     {
       "id": "CUSA00092",
@@ -2421,7 +2639,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00092.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 0.55 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/flower-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-flrps4/"
     },
     {
       "id": "CUSA12956",
@@ -2430,7 +2650,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12956.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 0.65 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/for-the-king-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ftkps4/"
     },
     {
       "id": "CUSA09491",
@@ -2457,7 +2679,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04917.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 1.63 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/furi-ps4-game-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4furi/"
     },
     {
       "id": "CUSA00180",
@@ -2493,7 +2717,9 @@
       "version": "06.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA28261.png",
       "description": "Region: USA\nVersion: 06.01\nMin FW: 9.00\nSize: 35.98 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/grid-legends-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-glps4/"
     },
     {
       "id": "CUSA16703",
@@ -2511,7 +2737,9 @@
       "version": "01.18",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04865.png",
       "description": "Region: EUR\nVersion: 01.18\nMin FW: 9.00\nSize: 1.08 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/gang-beasts-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-gbps4/"
     },
     {
       "id": "CUSA11456",
@@ -2529,7 +2757,9 @@
       "version": "01.23",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27030.png",
       "description": "Region: USA\nVersion: 01.23\nMin FW: 9.00\nSize: 13.45 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/ghostbusters-spirits-unleashed-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-gsups4/"
     },
     {
       "id": "CUSA15558",
@@ -2547,7 +2777,9 @@
       "version": "01.14",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24170.png",
       "description": "Region: USA\nVersion: 01.14\nMin FW: 9.00\nSize: 13.74 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/ghostrunner-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-grps4/"
     },
     {
       "id": "CUSA11628",
@@ -2556,7 +2788,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11628.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 0.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/gonner-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-gnrps4/"
     },
     {
       "id": "CUSA46679",
@@ -2574,7 +2808,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06712.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 0.98 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/goat-simulator-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-gsps4/"
     },
     {
       "id": "CUSA07410",
@@ -2610,7 +2846,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA19050.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 0.74 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/going-under-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-gurps4/"
     },
     {
       "id": "CUSA27458",
@@ -2619,7 +2857,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27458.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 0.77 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/golf-club-wasteland-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-gcwps4/"
     },
     {
       "id": "CUSA01223",
@@ -2646,7 +2886,9 @@
       "version": "01.34",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24769.png",
       "description": "Region: USA\nVersion: 01.34\nMin FW: 9.00\nSize: 114.32 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/gran-turismo-7-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-gt7ps4/"
     },
     {
       "id": "CUSA02168",
@@ -2691,7 +2933,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01858.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 3.46 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/grim-fandango-remastered-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-gfrps4-2/"
     },
     {
       "id": "CUSA42556",
@@ -2709,7 +2953,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02904.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 0.49 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/grow-home-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4gh/"
     },
     {
       "id": "CUSA00319",
@@ -2727,7 +2973,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07098.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 2.08 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/guacamelee-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-gcl2ps4/"
     },
     {
       "id": "CUSA25325",
@@ -2736,7 +2984,9 @@
       "version": "01.45",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25325.png",
       "description": "Region: EUR\nVersion: 01.45\nMin FW: 9.00\nSize: 16.30 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/guilty-gear-strive-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ggsps4/"
     },
     {
       "id": "CUSA02356",
@@ -2754,7 +3004,9 @@
       "version": "01.13",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18201.png",
       "description": "Region: USA\nVersion: 01.13\nMin FW: 9.00\nSize: 68.16 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/hitman-3-ps4/",
+      "source_download_page": "https://www.superpsx.com/dll-hiiips4/"
     },
     {
       "id": "CUSA35582",
@@ -2772,7 +3024,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA28071.png",
       "description": "Region: EUR\nVersion: 01.08\nMin FW: 9.00\nSize: 4.97 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/humanity-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-htps4/"
     },
     {
       "id": "CUSA27387",
@@ -2781,7 +3035,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27387.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 7.44 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/hades-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-hdsps4/"
     },
     {
       "id": "CUSA28813",
@@ -2790,7 +3046,9 @@
       "version": "01.14",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA28813.png",
       "description": "Region: USA\nVersion: 01.14\nMin FW: 9.00\nSize: 1.53 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/heavenly-bodies-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-hlbsps4/"
     },
     {
       "id": "CUSA07527",
@@ -2817,7 +3075,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10960.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 1.84 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/hello-neighbor-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-hnps4/"
     },
     {
       "id": "CUSA33399",
@@ -2826,7 +3086,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA33399.png",
       "description": "Region: EUR\nVersion: 01.06\nMin FW: 9.00\nSize: 4.88 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/hello-neighbor-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-hn2deps4/"
     },
     {
       "id": "CUSA13970",
@@ -2844,7 +3106,9 @@
       "version": "01.11",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA42391.png",
       "description": "Region: EUR\nVersion: 01.11\nMin FW: 9.00\nSize: 27.23 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/high-on-life-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-holps4/"
     },
     {
       "id": "CUSA12650",
@@ -2934,7 +3198,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00368.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 0.36 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/hotline-miami-2-wrong-number-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-hm2wnps4/"
     },
     {
       "id": "CUSA07208",
@@ -2943,7 +3209,9 @@
       "version": "01.20",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07208.png",
       "description": "Region: EUR\nVersion: 01.20\nMin FW: 9.00\nSize: 2.14 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/human-fall-flat-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-hffps4/"
     },
     {
       "id": "CUSA04570",
@@ -2952,7 +3220,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04570.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 0.88 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/hyper-light-drifter-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-hldps4/"
     },
     {
       "id": "CUSA03047",
@@ -2961,7 +3231,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03047.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 0.78 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/i-am-bread-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-iabps4/"
     },
     {
       "id": "CUSA02754",
@@ -2970,7 +3242,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02754.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 1.10 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/inside-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-insps4/"
     },
     {
       "id": "CUSA10688",
@@ -2979,7 +3253,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10688.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 25.51 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/injustice-2-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4ij2/"
     },
     {
       "id": "CUSA32884",
@@ -2997,7 +3273,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03871.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 0.90 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/inside-my-radio-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-imrps4/"
     },
     {
       "id": "CUSA16746",
@@ -3006,7 +3284,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16746.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 33.75 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/it-takes-two-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ittps4/"
     },
     {
       "id": "CUSA00575",
@@ -3033,7 +3313,9 @@
       "version": "03.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11638.png",
       "description": "Region: EUR\nVersion: 03.03\nMin FW: 9.00\nSize: 18.46 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/jump-force-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-jfps4/"
     },
     {
       "id": "CUSA03483",
@@ -3078,7 +3360,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18369.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.62 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/john-wick-hex-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-jwhps4/"
     },
     {
       "id": "CUSA00694",
@@ -3087,7 +3371,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00694.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 0.74 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/journey-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-jryps4/"
     },
     {
       "id": "CUSA14496",
@@ -3096,7 +3382,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14496.png",
       "description": "Region: EUR\nVersion: 01.08\nMin FW: 9.00\nSize: 4.78 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/journey-to-the-savage-planet-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-jttspps4/"
     },
     {
       "id": "CUSA13197",
@@ -3105,7 +3393,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13197.png",
       "description": "Region: EUR\nVersion: 01.09\nMin FW: 9.00\nSize: 28.67 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/judgment-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-jdgmtps4/"
     },
     {
       "id": "CUSA18541",
@@ -3114,7 +3404,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18541.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 1.07 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/jump-king-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-jkps4/"
     },
     {
       "id": "CUSA09991",
@@ -3132,7 +3424,9 @@
       "version": "01.33",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27321.png",
       "description": "Region: USA\nVersion: 01.33\nMin FW: 9.00\nSize: 8.12 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/jurassic-world-evolution-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-jwe2ps4/"
     },
     {
       "id": "CUSA02748",
@@ -3141,7 +3435,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02748.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 40.20 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/just-cause-3-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4jc3/"
     },
     {
       "id": "CUSA09254",
@@ -3150,7 +3446,9 @@
       "version": "01.31",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09254.png",
       "description": "Region: USA\nVersion: 01.31\nMin FW: 9.00\nSize: 57.10 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/just-cause-4-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-js4ps4/"
     },
     {
       "id": "CUSA13977",
@@ -3168,7 +3466,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14630.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 1.25 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/just-die-already-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-jdaps4/"
     },
     {
       "id": "CUSA10349",
@@ -3177,7 +3477,9 @@
       "version": "01.13",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10349.png",
       "description": "Region: USA\nVersion: 01.13\nMin FW: 9.00\nSize: 0.82 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/just-shapes-beats-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-jsbps4/"
     },
     {
       "id": "CUSA00190",
@@ -3240,7 +3542,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06561.png",
       "description": "Region: EUR\nVersion: 01.07\nMin FW: 9.00\nSize: 0.29 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/keep-talking-and-nobody-explodes-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ktaneps4/"
     },
     {
       "id": "CUSA25000",
@@ -3249,7 +3553,9 @@
       "version": "02.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25000.png",
       "description": "Region: EUR\nVersion: 02.08\nMin FW: 9.00\nSize: 8.75 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/kena-bridge-of-spirits-ps4/",
+      "source_download_page": "https://www.superpsx.com/dll-kbosps4/"
     },
     {
       "id": "CUSA10065",
@@ -3267,7 +3573,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11258.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.86 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/kerbal-space-program-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4ksp/"
     },
     {
       "id": "CUSA25258",
@@ -3276,7 +3584,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25258.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 0.78 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/keywe-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-kwps4/"
     },
     {
       "id": "CUSA02134",
@@ -3285,7 +3595,9 @@
       "version": "01.76",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02134.png",
       "description": "Region: USA\nVersion: 01.76\nMin FW: 9.00\nSize: 37.85 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/killing-floor-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-kf2ps4/"
     },
     {
       "id": "CUSA15436",
@@ -3330,7 +3642,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09084.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 15.66 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/l-a-noire-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4lanre/"
     },
     {
       "id": "CUSA00579",
@@ -3348,7 +3662,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06549.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 10.63 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/lego-city-undercover-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4lcuc/"
     },
     {
       "id": "CUSA11542",
@@ -3357,7 +3673,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11542.png",
       "description": "Region: USA\nVersion: 01.08\nMin FW: 9.00\nSize: 16.57 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/lego-dc-super-villains-deluxe-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ldsvps4/"
     },
     {
       "id": "CUSA05935",
@@ -3438,7 +3756,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09878.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 16.65 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/lego-the-incredibles-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tib2ps4/"
     },
     {
       "id": "CUSA02979",
@@ -3447,7 +3767,9 @@
       "version": "01.18",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02979.png",
       "description": "Region: EUR\nVersion: 01.18\nMin FW: 9.00\nSize: 3.23 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/lego-worlds-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-lgowps4/"
     },
     {
       "id": "CUSA01369",
@@ -3456,7 +3778,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01369.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.14 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/limbo-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-lbps4/"
     },
     {
       "id": "CUSA06460",
@@ -3681,7 +4005,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA36848.png",
       "description": "Region: EUR\nVersion: 01.08\nMin FW: 9.00\nSize: 19.44 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/lies-of-p-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-lopps4/"
     },
     {
       "id": "CUSA01442",
@@ -3699,7 +4025,9 @@
       "version": "01.17",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08124.png",
       "description": "Region: EUR\nVersion: 01.17\nMin FW: 9.00\nSize: 41.97 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/life-is-strange-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-lis2ps4/"
     },
     {
       "id": "CUSA08487",
@@ -3708,7 +4036,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08487.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 17.88 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/life-is-strange-before-storm-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-lisbtsrps4/"
     },
     {
       "id": "CUSA24801",
@@ -3735,7 +4065,9 @@
       "version": "01.16",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32137.png",
       "description": "Region: EUR\nVersion: 01.16\nMin FW: 9.00\nSize: 37.22 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/like-a-dragon-infinite-wealth-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ladiwueps4/"
     },
     {
       "id": "CUSA32173",
@@ -3744,7 +4076,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32173.png",
       "description": "Region: USA\nVersion: 01.05\nMin FW: 9.00\nSize: 26.47 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/like-a-dragon-ishin-deluxe-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ladideps4/"
     },
     {
       "id": "CUSA49939",
@@ -3780,7 +4114,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05952.png",
       "description": "Region: EUR\nVersion: 01.07\nMin FW: 9.00\nSize: 3.25 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/little-nightmares-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-lnps4/"
     },
     {
       "id": "CUSA12779",
@@ -3789,7 +4125,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12779.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 3.54 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/little-nightmares-ii-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-lniips4/"
     },
     {
       "id": "CUSA42879",
@@ -3834,7 +4172,9 @@
       "version": "01.30",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16005.png",
       "description": "Region: EUR\nVersion: 01.30\nMin FW: 9.00\nSize: 0.83 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/lonely-mountains-downhill-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-lmdps4/"
     },
     {
       "id": "CUSA28186",
@@ -3843,7 +4183,9 @@
       "version": "01.11",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA28186.png",
       "description": "Region: EUR\nVersion: 01.11\nMin FW: 9.00\nSize: 43.65 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/lost-judgment-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-lstjps4/"
     },
     {
       "id": "CUSA04384",
@@ -3852,7 +4194,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04384.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.32 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/lovers-in-a-dangerous-spacetime-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4liad/"
     },
     {
       "id": "CUSA06400",
@@ -3861,7 +4205,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06400.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 39.33 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/marvel-vs-capcom-infinite-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4mvsci/"
     },
     {
       "id": "CUSA46747",
@@ -3888,7 +4234,9 @@
       "version": "01.40",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA41303.png",
       "description": "Region: EUR\nVersion: 01.40\nMin FW: 9.00\nSize: 6.67 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/metal-gear-solid-2-sons-of-liberty-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-mgs2solmcvps4/"
     },
     {
       "id": "CUSA41305",
@@ -3897,7 +4245,9 @@
       "version": "01.40",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA41305.png",
       "description": "Region: EUR\nVersion: 01.40\nMin FW: 9.00\nSize: 8.57 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/metal-gear-solid-3-snake-eater-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-mgs3snmcvps4/"
     },
     {
       "id": "CUSA05610",
@@ -3924,7 +4274,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25622.png",
       "description": "Region: EUR\nVersion: 01.09\nMin FW: 9.00\nSize: 24.30 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/mx-vs-atv-legends-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-mxvsatvl/"
     },
     {
       "id": "CUSA02703",
@@ -3933,7 +4285,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02703.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 31.15 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/mad-max-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-mmaxps4/"
     },
     {
       "id": "CUSA37089",
@@ -3978,7 +4332,9 @@
       "version": "01.13",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14519.png",
       "description": "Region: USA\nVersion: 01.13\nMin FW: 9.00\nSize: 5.90 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/maneater-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-meps4-2/"
     },
     {
       "id": "CUSA03068",
@@ -3996,7 +4352,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04787.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 5.68 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/marvel-ultimate-alliance-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-muaps4/"
     },
     {
       "id": "CUSA04788",
@@ -4113,7 +4471,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA46824.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 0.80 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/metal-slug-tactics-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-mstps4/"
     },
     {
       "id": "CUSA47038",
@@ -4122,7 +4482,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA47038.png",
       "description": "Region: USA\nVersion: 01.09\nMin FW: 9.00\nSize: 39.90 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/metaphor-refantazio-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-mprps4/"
     },
     {
       "id": "CUSA11408",
@@ -4131,7 +4493,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11408.png",
       "description": "Region: USA\nVersion: 01.08\nMin FW: 9.00\nSize: 66.78 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/metro-exodus-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-meps4/"
     },
     {
       "id": "CUSA00683",
@@ -4140,7 +4504,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00683.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 11.56 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/metro-redux-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4mr/"
     },
     {
       "id": "CUSA07480",
@@ -4149,7 +4515,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07480.png",
       "description": "Region: USA\nVersion: 01.05\nMin FW: 9.00\nSize: 1.72 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/micro-machines-world-series-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4mmws/"
     },
     {
       "id": "CUSA01940",
@@ -4176,7 +4544,9 @@
       "version": "03.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00265.png",
       "description": "Region: EUR\nVersion: 03.05\nMin FW: 9.00\nSize: 2.19 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/minecraft-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4mc/"
     },
     {
       "id": "CUSA09747",
@@ -4185,7 +4555,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09747.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 0.11 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/minit-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-mntps4/"
     },
     {
       "id": "CUSA01566",
@@ -4284,7 +4656,9 @@
       "version": "01.12",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16364.png",
       "description": "Region: USA\nVersion: 01.12\nMin FW: 9.00\nSize: 3.64 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/mortal-shell-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-morshps4/"
     },
     {
       "id": "CUSA45988",
@@ -4311,7 +4685,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA34285.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 1.27 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/moving-out-2-deluxe-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-mo2deps4/"
     },
     {
       "id": "CUSA09936",
@@ -4329,7 +4705,9 @@
       "version": "01.14",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12680.png",
       "description": "Region: USA\nVersion: 01.14\nMin FW: 9.00\nSize: 6.34 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/mutant-year-zero-road-to-eden-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-myzrteps4/"
     },
     {
       "id": "CUSA14175",
@@ -4338,7 +4716,9 @@
       "version": "01.83",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14175.png",
       "description": "Region: EUR\nVersion: 01.83\nMin FW: 9.00\nSize: 2.34 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/mutazione-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-mtznps4/"
     },
     {
       "id": "CUSA18145",
@@ -4410,7 +4790,9 @@
       "version": "01.20",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13619.png",
       "description": "Region: EUR\nVersion: 01.20\nMin FW: 9.00\nSize: 7.81 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/nba-2k-playgrounds-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nba2kp2ps4/"
     },
     {
       "id": "CUSA00104",
@@ -4428,7 +4810,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA42312.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 94.16 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/nba-2k24-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nba24ps4/"
     },
     {
       "id": "CUSA37933",
@@ -4491,7 +4875,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25567.png",
       "description": "Region: USA\nVersion: 01.09\nMin FW: 9.00\nSize: 12.38 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/necromunda-hired-gun-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nhgps4/"
     },
     {
       "id": "CUSA12530",
@@ -4545,7 +4931,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA36342.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 2.93 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/neon-white-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nwps4/"
     },
     {
       "id": "CUSA51045",
@@ -4554,7 +4942,9 @@
       "version": "01.30",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA51045.png",
       "description": "Region: EUR\nVersion: 01.30\nMin FW: 9.00\nSize: 2.68 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/neva-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nvps4/"
     },
     {
       "id": "CUSA27678",
@@ -4563,7 +4953,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27678.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 27.29 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/new-tales-from-the-borderlands-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ntftbps4/"
     },
     {
       "id": "CUSA05588",
@@ -4572,7 +4964,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05588.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 0.96 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/nex-machina-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nmps4-2/"
     },
     {
       "id": "CUSA09243",
@@ -4608,7 +5002,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07640.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 0.46 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nhg2ps4/"
     },
     {
       "id": "CUSA04480",
@@ -4617,7 +5013,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04480.png",
       "description": "Region: EUR\nVersion: 01.06\nMin FW: 9.00\nSize: 37.17 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/nier-automata-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4nieram/"
     },
     {
       "id": "CUSA18742",
@@ -4644,7 +5042,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05996.png",
       "description": "Region: EUR\nVersion: 01.07\nMin FW: 9.00\nSize: 1.60 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/night-in-the-woods-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nitwps4/"
     },
     {
       "id": "CUSA50688",
@@ -4653,7 +5053,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA50688.png",
       "description": "Region: JAP\nVersion: 01.02\nMin FW: 9.00\nSize: 2.33 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/nine-sols-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nsoulps4/"
     },
     {
       "id": "CUSA07123",
@@ -4662,7 +5064,9 @@
       "version": "01.23",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07123.png",
       "description": "Region: EUR\nVersion: 01.23\nMin FW: 9.00\nSize: 48.51 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/nioh-complete-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-nceps4/"
     },
     {
       "id": "CUSA15526",
@@ -4671,7 +5075,9 @@
       "version": "01.27",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA15526.png",
       "description": "Region: EUR\nVersion: 01.27\nMin FW: 9.00\nSize: 45.03 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/nioh-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-n2ps4/"
     },
     {
       "id": "CUSA04841",
@@ -4743,7 +5149,9 @@
       "version": "02.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20374.png",
       "description": "Region: EUR\nVersion: 02.01\nMin FW: 9.00\nSize: 29.68 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/one-piece-odyssey-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-opops4/"
     },
     {
       "id": "CUSA01742",
@@ -4752,7 +5160,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01742.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 10.31 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/one-piece-pirate-warriors-3-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4oppw3/"
     },
     {
       "id": "CUSA17196",
@@ -4770,7 +5180,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11205.png",
       "description": "Region: USA\nVersion: 01.05\nMin FW: 9.00\nSize: 18.14 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/one-piece-world-seeker-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-opwsps4/"
     },
     {
       "id": "CUSA09559",
@@ -4788,7 +5200,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32735.png",
       "description": "Region: EUR\nVersion: 01.06\nMin FW: 9.00\nSize: 3.53 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/oxenfree-ii-lost-signals-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-oiilsps4/"
     },
     {
       "id": "CUSA27090",
@@ -4824,7 +5238,9 @@
       "version": "01.20",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08126.png",
       "description": "Region: USA\nVersion: 01.20\nMin FW: 9.00\nSize: 9.19 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/oddworld-soulstorm-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-osps4/"
     },
     {
       "id": "CUSA26454",
@@ -4860,7 +5276,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25466.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 1.77 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/olliolli-world-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-oowps4/"
     },
     {
       "id": "CUSA27976",
@@ -4869,7 +5287,9 @@
       "version": "02.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27976.png",
       "description": "Region: EUR\nVersion: 02.04\nMin FW: 9.00\nSize: 9.42 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/orcs-must-die-3-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-omd3ps4/"
     },
     {
       "id": "CUSA09919",
@@ -4878,7 +5298,9 @@
       "version": "01.15",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09919.png",
       "description": "Region: EUR\nVersion: 01.15\nMin FW: 9.00\nSize: 3.71 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/outer-wilds-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-otwdps4/"
     },
     {
       "id": "CUSA07742",
@@ -4896,7 +5318,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06623.png",
       "description": "Region: USA\nVersion: 01.05\nMin FW: 9.00\nSize: 17.14 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/outlast-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-otps4/"
     },
     {
       "id": "CUSA23464",
@@ -4914,7 +5338,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09920.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 0.40 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/owlboy-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-obps4-2/"
     },
     {
       "id": "CUSA05051",
@@ -4923,7 +5349,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05051.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 1.68 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/oxenfree-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ofps4/"
     },
     {
       "id": "CUSA08364",
@@ -4941,7 +5369,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01127.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 1.38 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/p-t-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ptps4/"
     },
     {
       "id": "CUSA06906",
@@ -4968,7 +5398,9 @@
       "version": "01.19",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA29107.png",
       "description": "Region: EUR\nVersion: 01.19\nMin FW: 9.00\nSize: 10.45 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/pga-tour-2k23-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-pgat2k23ps4/"
     },
     {
       "id": "CUSA06545",
@@ -5022,7 +5454,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12636.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 16.49 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/persona-3-dancing-in-moonlight-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-p3dimlps4/"
     },
     {
       "id": "CUSA33874",
@@ -5049,7 +5483,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12112.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 6.73 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/persona-4-dancing-all-night-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-p4danps4/"
     },
     {
       "id": "CUSA17419",
@@ -5085,7 +5521,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA43148.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 14.71 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/persona-5-tactica-deluxe-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-p5tddeps4/"
     },
     {
       "id": "CUSA00105",
@@ -5103,7 +5541,9 @@
       "version": "01.19",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04915.png",
       "description": "Region: USA\nVersion: 01.19\nMin FW: 9.00\nSize: 7.51 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/pinball-fx3-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-pfx3ps4/"
     },
     {
       "id": "CUSA17602",
@@ -5121,7 +5561,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA45894.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 3.29 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/planet-of-lana-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-pflps4/"
     },
     {
       "id": "CUSA55613",
@@ -5139,7 +5581,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA19373.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 0.55 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/ponpu-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-pnpps4/"
     },
     {
       "id": "CUSA36012",
@@ -5148,7 +5592,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA36012.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 0.64 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/potion-craft-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-pctps4/"
     },
     {
       "id": "CUSA04493",
@@ -5157,7 +5603,9 @@
       "version": "01.12",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04493.png",
       "description": "Region: USA\nVersion: 01.12\nMin FW: 9.00\nSize: 46.63 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/prey-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-pyps4/"
     },
     {
       "id": "CUSA36582",
@@ -5166,7 +5614,9 @@
       "version": "01.42",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA36582.png",
       "description": "Region: EUR\nVersion: 01.42\nMin FW: 9.00\nSize: 11.61 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/prince-of-persia-the-lost-crown-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-poptlcps4/"
     },
     {
       "id": "CUSA03487",
@@ -5175,7 +5625,9 @@
       "version": "01.22",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03487.png",
       "description": "Region: EUR\nVersion: 01.22\nMin FW: 9.00\nSize: 0.29 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/prison-architect-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4prar/"
     },
     {
       "id": "CUSA31340",
@@ -5184,7 +5636,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA31340.png",
       "description": "Region: EUR\nVersion: 01.06\nMin FW: 9.00\nSize: 1.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/prodeus-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-pdps4-2/"
     },
     {
       "id": "CUSA27145",
@@ -5193,7 +5647,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27145.png",
       "description": "Region: USA\nVersion: 01.08\nMin FW: 9.00\nSize: 28.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/psychonauts-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-psconps4/"
     },
     {
       "id": "CUSA18824",
@@ -5202,7 +5658,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18824.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 1.16 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/pummel-party-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ppps4-2/"
     },
     {
       "id": "CUSA05441",
@@ -5211,7 +5669,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05441.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 4.16 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/pyre-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-prps4-2/"
     },
     {
       "id": "CUSA24594",
@@ -5220,7 +5680,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24594.png",
       "description": "Region: EUR\nVersion: 01.08\nMin FW: 9.00\nSize: 0.83 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/quake-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-qakps4/"
     },
     {
       "id": "CUSA35422",
@@ -5247,7 +5709,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10300.png",
       "description": "Region: EUR\nVersion: 01.09\nMin FW: 9.00\nSize: 49.59 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/rage-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-r2ps4/"
     },
     {
       "id": "CUSA09171",
@@ -5274,7 +5738,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04437.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 15.25 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/resident-evil-5-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4re5/"
     },
     {
       "id": "CUSA03840",
@@ -5283,7 +5749,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03840.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 12.78 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/resident-evil-6-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4re6/"
     },
     {
       "id": "CUSA09473",
@@ -5292,7 +5760,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09473.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 32.04 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/resident-evil-7-biohazard-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4re7bh/"
     },
     {
       "id": "CUSA06212",
@@ -5301,7 +5771,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06212.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 15.17 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/resident-evil-revelations-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4rer/"
     },
     {
       "id": "CUSA00924",
@@ -5328,7 +5800,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA34254.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 1.20 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/rollerdrome-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-rldmps4/"
     },
     {
       "id": "CUSA27236",
@@ -5337,7 +5811,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27236.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 4.42 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/rabbids-party-of-legends-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-rpolps4/"
     },
     {
       "id": "CUSA04196",
@@ -5346,7 +5822,9 @@
       "version": "01.12",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04196.png",
       "description": "Region: USA\nVersion: 01.12\nMin FW: 9.00\nSize: 3.89 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/rain-world-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-rwps4/"
     },
     {
       "id": "CUSA01073",
@@ -5364,7 +5842,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA46987.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 1.62 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/ravenswatch-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-rvwps4/"
     },
     {
       "id": "CUSA00031",
@@ -5373,7 +5853,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00031.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 7.73 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/rayman-legends-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4rl/"
     },
     {
       "id": "CUSA36843",
@@ -5382,7 +5864,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA36843.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 9.03 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/red-dead-redemption-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-rdrps4/"
     },
     {
       "id": "CUSA08519",
@@ -5418,7 +5902,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA31411.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 9.94 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/redout-2-deluxe-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-r2deps4/"
     },
     {
       "id": "CUSA33388",
@@ -5436,7 +5922,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03178.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 19.98 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/resident-evil-origins-collection-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-revocps4/"
     },
     {
       "id": "CUSA18017",
@@ -5490,7 +5978,9 @@
       "version": "01.34",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20488.png",
       "description": "Region: USA\nVersion: 01.34\nMin FW: 9.00\nSize: 17.57 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/ride-4-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-rd4ps4/"
     },
     {
       "id": "CUSA05794",
@@ -5499,7 +5989,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05794.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 12.17 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/rise-of-the-tomb-raider-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4rottr/"
     },
     {
       "id": "CUSA16209",
@@ -5508,7 +6000,9 @@
       "version": "01.18",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16209.png",
       "description": "Region: EUR\nVersion: 01.18\nMin FW: 9.00\nSize: 2.33 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/risk-of-rain-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ror2ps4/"
     },
     {
       "id": "CUSA02084",
@@ -5553,7 +6047,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA42371.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 0.83 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/rogue-legacy-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-rl2ps4/"
     },
     {
       "id": "CUSA04885",
@@ -5571,7 +6067,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24100.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 12.32 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/samurai-warriors-5-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sw5ps4/"
     },
     {
       "id": "CUSA08809",
@@ -5589,7 +6087,9 @@
       "version": "01.27",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA30202.png",
       "description": "Region: USA\nVersion: 01.27\nMin FW: 9.00\nSize: 10.58 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sifu-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sifups4/"
     },
     {
       "id": "CUSA13229",
@@ -5607,7 +6107,9 @@
       "version": "01.10",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03200.png",
       "description": "Region: EUR\nVersion: 01.10\nMin FW: 9.00\nSize: 10.57 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/soma-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-smps4-2/"
     },
     {
       "id": "CUSA44422",
@@ -5625,7 +6127,9 @@
       "version": "01.15",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA30527.png",
       "description": "Region: EUR\nVersion: 01.15\nMin FW: 9.00\nSize: 0.51 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/spiderheck-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-shps4/"
     },
     {
       "id": "CUSA00640",
@@ -5706,7 +6210,9 @@
       "version": "01.31",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA33086.png",
       "description": "Region: EUR\nVersion: 01.31\nMin FW: 9.00\nSize: 4.14 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/super-bomberman-r-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sbr2ps4/"
     },
     {
       "id": "CUSA09030",
@@ -5742,7 +6248,9 @@
       "version": "01.17",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA26457.png",
       "description": "Region: EUR\nVersion: 01.17\nMin FW: 9.00\nSize: 65.28 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/saints-row-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ssrps4/"
     },
     {
       "id": "CUSA00939",
@@ -5751,7 +6259,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00939.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 6.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/saints-row-gat-out-of-hell-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-srgofhps4/"
     },
     {
       "id": "CUSA01106",
@@ -5760,7 +6270,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01106.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 11.48 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/saints-row-iv-re-elected-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-srivreps4/"
     },
     {
       "id": "CUSA14350",
@@ -5778,7 +6290,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14669.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 0.66 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sayonara-wild-hearts-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-swhps4/"
     },
     {
       "id": "CUSA14101",
@@ -5787,7 +6301,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14101.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 0.67 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sea-of-solitude-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sosps4/"
     },
     {
       "id": "CUSA31580",
@@ -5796,7 +6312,9 @@
       "version": "01.11",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA31580.png",
       "description": "Region: EUR\nVersion: 01.11\nMin FW: 9.00\nSize: 4.50 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sea-of-stars-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sosps4-2/"
     },
     {
       "id": "CUSA25109",
@@ -5832,7 +6350,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32356.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 7.20 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/serial-cleaners-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-scps4/"
     },
     {
       "id": "CUSA00627",
@@ -5859,7 +6379,9 @@
       "version": "01.13",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA26358.png",
       "description": "Region: EUR\nVersion: 01.13\nMin FW: 9.00\nSize: 11.61 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/shadow-warrior-3-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sw3ps4/"
     },
     {
       "id": "CUSA10872",
@@ -5877,7 +6399,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01867.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 0.31 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/shovel-knight-treasure-trove-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-skttps4/"
     },
     {
       "id": "CUSA15381",
@@ -5931,7 +6455,9 @@
       "version": "02.30",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA15289.png",
       "description": "Region: USA\nVersion: 02.30\nMin FW: 9.00\nSize: 0.41 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/slay-the-spire-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-stsps4/"
     },
     {
       "id": "CUSA01004",
@@ -5949,7 +6475,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA47872.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 0.41 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/slime-3k-rise-against-despot-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-s3katps4/"
     },
     {
       "id": "CUSA11650",
@@ -5958,7 +6486,9 @@
       "version": "01.20",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11650.png",
       "description": "Region: EUR\nVersion: 01.20\nMin FW: 9.00\nSize: 0.75 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/slime-rancher-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-smrhps4/"
     },
     {
       "id": "CUSA07720",
@@ -5985,7 +6515,9 @@
       "version": "01.20",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04099.png",
       "description": "Region: EUR\nVersion: 01.20\nMin FW: 9.00\nSize: 48.24 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sniper-elite-4-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4se4/"
     },
     {
       "id": "CUSA16075",
@@ -5994,7 +6526,9 @@
       "version": "01.29",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16075.png",
       "description": "Region: EUR\nVersion: 01.29\nMin FW: 9.00\nSize: 53.93 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sniper-elite-5-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-se5ps4/"
     },
     {
       "id": "CUSA44067",
@@ -6003,7 +6537,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA44067.png",
       "description": "Region: USA\nVersion: 01.09\nMin FW: 9.00\nSize: 58.63 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sniper-elite-resistance-deluxe-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-snetrdeps4/"
     },
     {
       "id": "CUSA12351",
@@ -6012,7 +6548,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12351.png",
       "description": "Region: EUR\nVersion: 01.06\nMin FW: 9.00\nSize: 11.09 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sniper-elite-v2-remastered/",
+      "source_download_page": "https://www.superpsx.com/dll-sev2ps4/"
     },
     {
       "id": "CUSA14638",
@@ -6021,7 +6559,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14638.png",
       "description": "Region: USA\nVersion: 01.09\nMin FW: 9.00\nSize: 13.07 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sniper-ghost-warrior-contracts-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sgwcps4/"
     },
     {
       "id": "CUSA20373",
@@ -6030,7 +6570,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20373.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 11.31 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/sniper-ghost-warrior-contracts-2-ps4/",
+      "source_download_page": "https://www.superpsx.com/dll-sgwc2ps4/"
     },
     {
       "id": "CUSA17425",
@@ -6039,7 +6581,9 @@
       "version": "01.49",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA17425.png",
       "description": "Region: USA\nVersion: 01.49\nMin FW: 9.00\nSize: 26.46 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/snowrunner-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-srps4/"
     },
     {
       "id": "CUSA26035",
@@ -6048,7 +6592,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA26035.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 3.12 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/solar-ash-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-saps4/"
     },
     {
       "id": "CUSA41326",
@@ -6111,7 +6657,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05560.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 0.48 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/speedrunners-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sdrps4/"
     },
     {
       "id": "CUSA00493",
@@ -6129,7 +6677,9 @@
       "version": "01.24",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20601.png",
       "description": "Region: USA\nVersion: 01.24\nMin FW: 9.00\nSize: 0.36 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/spelunky-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sl2ps4/"
     },
     {
       "id": "CUSA20160",
@@ -6138,7 +6688,9 @@
       "version": "01.15",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20160.png",
       "description": "Region: EUR\nVersion: 01.15\nMin FW: 9.00\nSize: 1.90 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/spiritfarer-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sfps4/"
     },
     {
       "id": "CUSA14909",
@@ -6156,7 +6708,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA30579.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 5.58 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/spongebob-squarepants-cosmic-shake-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sbspcsps4/"
     },
     {
       "id": "CUSA42350",
@@ -6210,7 +6764,9 @@
       "version": "01.62",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06840.png",
       "description": "Region: USA\nVersion: 01.62\nMin FW: 9.00\nSize: 0.33 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/stardew-valley-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-svps4/"
     },
     {
       "id": "CUSA07254",
@@ -6228,7 +6784,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11826.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.14 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/stick-fight-the-game-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-sftgps4/"
     },
     {
       "id": "CUSA17597",
@@ -6237,7 +6795,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA17597.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 0.90 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/stories-untold-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4-5/"
     },
     {
       "id": "CUSA24899",
@@ -6246,7 +6806,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24899.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 6.94 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/stray-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-strayps4/"
     },
     {
       "id": "CUSA31498",
@@ -6273,7 +6835,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16237.png",
       "description": "Region: USA\nVersion: 01.09\nMin FW: 9.00\nSize: 7.12 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/streets-of-rage-4-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ssor4ps4/"
     },
     {
       "id": "CUSA13529",
@@ -6282,7 +6846,9 @@
       "version": "01.21",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13529.png",
       "description": "Region: USA\nVersion: 01.21\nMin FW: 9.00\nSize: 2.71 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/subnautica-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-subnauticaps4/"
     },
     {
       "id": "CUSA18065",
@@ -6291,7 +6857,9 @@
       "version": "01.21",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18065.png",
       "description": "Region: USA\nVersion: 01.21\nMin FW: 9.00\nSize: 2.92 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/subnautica-below-zero-ps4/",
+      "source_download_page": "https://www.superpsx.com/dll-sbzps4/"
     },
     {
       "id": "CUSA31585",
@@ -6336,7 +6904,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA19488.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 3.91 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/superliminal-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-splps4/"
     },
     {
       "id": "CUSA00861",
@@ -6372,7 +6942,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA11736.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 23.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-quiet-man-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tqmps4/"
     },
     {
       "id": "CUSA11366",
@@ -6399,7 +6971,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00870.png",
       "description": "Region: USA\nVersion: 01.07\nMin FW: 9.00\nSize: 8.61 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/tales-from-the-borderlands-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tftbps4/"
     },
     {
       "id": "CUSA00562",
@@ -6435,7 +7009,9 @@
       "version": "01.25",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00740.png",
       "description": "Region: USA\nVersion: 01.25\nMin FW: 9.00\nSize: 0.31 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/terraria-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4terraria/"
     },
     {
       "id": "CUSA13643",
@@ -6462,7 +7038,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA30113.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 6.12 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-artful-escape-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-taeps4/"
     },
     {
       "id": "CUSA09376",
@@ -6489,7 +7067,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04995.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.26 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-bug-butcher-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tbbps4/"
     },
     {
       "id": "CUSA27372",
@@ -6516,7 +7096,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA45359.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 1.60 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-cub-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tcps4-2/"
     },
     {
       "id": "CUSA25430",
@@ -6534,7 +7116,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA17885.png",
       "description": "Region: EUR\nVersion: 01.09\nMin FW: 9.00\nSize: 26.44 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/dark-pictures-anthology-little-hope-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tdpalhps4"
     },
     {
       "id": "CUSA14102",
@@ -6543,7 +7127,9 @@
       "version": "01.19",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14102.png",
       "description": "Region: EUR\nVersion: 01.19\nMin FW: 9.00\nSize: 16.17 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-dark-pictures-anthology-man-of-medan-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tdpamomps4/"
     },
     {
       "id": "CUSA31495",
@@ -6561,7 +7147,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01937.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 1.10 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-deadly-tower-of-monsters-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4tdtom/"
     },
     {
       "id": "CUSA20639",
@@ -6570,7 +7158,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20639.png",
       "description": "Region: USA\nVersion: 01.05\nMin FW: 9.00\nSize: 0.27 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-eternal-castle-remastered-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tecslrps4/"
     },
     {
       "id": "CUSA00375",
@@ -6579,7 +7169,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00375.png",
       "description": "Region: EUR\nVersion: 01.06\nMin FW: 9.00\nSize: 49.68 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-evil-within-complete-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tewnps4/"
     },
     {
       "id": "CUSA06164",
@@ -6588,7 +7180,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06164.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 25.73 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-evil-within-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tew2ps4/"
     },
     {
       "id": "CUSA31824",
@@ -6615,7 +7209,9 @@
       "version": "01.15",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12398.png",
       "description": "Region: EUR\nVersion: 01.15\nMin FW: 9.00\nSize: 1.71 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-forest-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tfrstps4/"
     },
     {
       "id": "CUSA26944",
@@ -6624,7 +7220,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA26944.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 5.47 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-forgotten-city-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tfcps4/"
     },
     {
       "id": "CUSA10848",
@@ -6633,7 +7231,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10848.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 0.86 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-gardens-between-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tgbps4/"
     },
     {
       "id": "CUSA34128",
@@ -6642,7 +7242,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA34128.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 1.62 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-knight-witch-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tkwps4/"
     },
     {
       "id": "CUSA19445",
@@ -6687,7 +7289,9 @@
       "version": "02.39",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09690.png",
       "description": "Region: EUR\nVersion: 02.39\nMin FW: 9.00\nSize: 15.98 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-long-dark-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4tld/"
     },
     {
       "id": "CUSA32039",
@@ -6723,7 +7327,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12172.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.23 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-mooseman-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tmsnps4/"
     },
     {
       "id": "CUSA13141",
@@ -6741,7 +7347,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00076.png",
       "description": "Region: EUR\nVersion: 01.03\nMin FW: 9.00\nSize: 32.32 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-order-1886-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4to1886/"
     },
     {
       "id": "CUSA13689",
@@ -6750,7 +7358,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13689.png",
       "description": "Region: EUR\nVersion: 01.08\nMin FW: 9.00\nSize: 25.93 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-outer-worlds-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-towps4/"
     },
     {
       "id": "CUSA14330",
@@ -6759,7 +7369,9 @@
       "version": "02.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14330.png",
       "description": "Region: USA\nVersion: 02.00\nMin FW: 9.00\nSize: 2.50 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-pathless-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tpps4-2/"
     },
     {
       "id": "CUSA20287",
@@ -6777,7 +7389,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA31820.png",
       "description": "Region: EUR\nVersion: 01.07\nMin FW: 9.00\nSize: 27.90 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-quarry-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tqps4/"
     },
     {
       "id": "CUSA06819",
@@ -6804,7 +7418,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13152.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 9.58 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-sinking-city-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tscps4/"
     },
     {
       "id": "CUSA31559",
@@ -6822,7 +7438,9 @@
       "version": "01.17",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04849.png",
       "description": "Region: EUR\nVersion: 01.17\nMin FW: 9.00\nSize: 7.12 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-surge-complete-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4thesurge/"
     },
     {
       "id": "CUSA12567",
@@ -6831,7 +7449,9 @@
       "version": "01.10",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12567.png",
       "description": "Region: EUR\nVersion: 01.10\nMin FW: 9.00\nSize: 6.49 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-surge-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ts2ps4/"
     },
     {
       "id": "CUSA01256",
@@ -6885,7 +7505,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA28245.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 1.06 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-wild-at-heart-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-twahps4/"
     },
     {
       "id": "CUSA05571",
@@ -6894,7 +7516,9 @@
       "version": "04.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05571.png",
       "description": "Region: EUR\nVersion: 04.06\nMin FW: 9.00\nSize: 37.22 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-witcher-3-wild-hunt-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4tw3wh/"
     },
     {
       "id": "CUSA04263",
@@ -6903,7 +7527,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04263.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 4.45 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/the-witness-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4tw/"
     },
     {
       "id": "CUSA01009",
@@ -6930,7 +7556,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08960.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 0.91 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/thimbleweed-park-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tbwpps4/"
     },
     {
       "id": "CUSA05839",
@@ -6984,7 +7612,9 @@
       "version": "01.06",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03559.png",
       "description": "Region: USA\nVersion: 01.06\nMin FW: 9.00\nSize: 0.82 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/thumper-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4thumper/"
     },
     {
       "id": "CUSA30348",
@@ -6993,7 +7623,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA30348.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 0.27 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/time-on-frog-island-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tofips4/"
     },
     {
       "id": "CUSA23766",
@@ -7038,7 +7670,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA43774.png",
       "description": "Region: EUR\nVersion: 01.04\nMin FW: 9.00\nSize: 3.99 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/tomb-raider-i-iii-remastered-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tri-iiirps4/"
     },
     {
       "id": "CUSA44839",
@@ -7083,7 +7717,9 @@
       "version": "01.71",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07917.png",
       "description": "Region: EUR\nVersion: 01.71\nMin FW: 9.00\nSize: 0.40 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/tooth-and-tail-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tatps4/"
     },
     {
       "id": "CUSA32748",
@@ -7092,7 +7728,9 @@
       "version": "01.07",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32748.png",
       "description": "Region: EUR\nVersion: 01.07\nMin FW: 9.00\nSize: 18.12 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/topspin-2k25-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ts2k25ps4/"
     },
     {
       "id": "CUSA00466",
@@ -7119,7 +7757,9 @@
       "version": "01.56",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA42693.png",
       "description": "Region: EUR\nVersion: 01.56\nMin FW: 9.00\nSize: 65.11 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/train-sim-world-4-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tsw4ps4/"
     },
     {
       "id": "CUSA35553",
@@ -7146,7 +7786,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00642.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 2.23 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/transistor-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4tras/"
     },
     {
       "id": "CUSA28641",
@@ -7155,7 +7797,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA28641.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 0.87 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/trash-sailors-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tslrsps4/"
     },
     {
       "id": "CUSA15506",
@@ -7209,7 +7853,9 @@
       "version": "01.80",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05186.png",
       "description": "Region: USA\nVersion: 01.80\nMin FW: 9.00\nSize: 0.16 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/tricky-towers-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4tt/"
     },
     {
       "id": "CUSA01126",
@@ -7236,7 +7882,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03082.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 2.07 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/trine-3-the-artifacts-of-power-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4t3taop/"
     },
     {
       "id": "CUSA09869",
@@ -7290,7 +7938,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA26967.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 1.50 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/tunic-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tncps4/"
     },
     {
       "id": "CUSA35834",
@@ -7299,7 +7949,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA35834.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 0.21 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/turnip-boy-commits-tax-evasion-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tbctenps4/"
     },
     {
       "id": "CUSA27172",
@@ -7308,7 +7960,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27172.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 1.27 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/twelve-minutes-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tmps4/"
     },
     {
       "id": "CUSA24605",
@@ -7317,7 +7971,9 @@
       "version": "01.13",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24605.png",
       "description": "Region: EUR\nVersion: 01.13\nMin FW: 9.00\nSize: 2.84 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/two-point-campus-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tpcps4/"
     },
     {
       "id": "CUSA16081",
@@ -7326,7 +7982,9 @@
       "version": "01.15",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16081.png",
       "description": "Region: USA\nVersion: 01.15\nMin FW: 9.00\nSize: 2.41 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/two-point-hospital-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-tphps4/"
     },
     {
       "id": "CUSA08580",
@@ -7344,7 +8002,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03323.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 0.17 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/uncanny-valley-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ucvlps4/"
     },
     {
       "id": "CUSA00341",
@@ -7380,7 +8040,9 @@
       "version": "01.08",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08801.png",
       "description": "Region: USA\nVersion: 01.08\nMin FW: 9.00\nSize: 0.27 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/undertale-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-utps4-2/"
     },
     {
       "id": "CUSA20431",
@@ -7407,7 +8069,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10416.png",
       "description": "Region: EUR\nVersion: 01.00\nMin FW: 9.00\nSize: 2.79 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/unravel-two-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-u2ps4/"
     },
     {
       "id": "CUSA27632",
@@ -7416,7 +8080,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27632.png",
       "description": "Region: EUR\nVersion: 01.01\nMin FW: 9.00\nSize: 0.39 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/unspottable-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-uptbps4/"
     },
     {
       "id": "CUSA02636",
@@ -7461,7 +8127,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03468.png",
       "description": "Region: EUR\nVersion: 01.09\nMin FW: 9.00\nSize: 12.74 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/vampyr-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-vampyrps4/"
     },
     {
       "id": "CUSA16161",
@@ -7470,7 +8138,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16161.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 17.09 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/vanquish-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-vnqshps4/"
     },
     {
       "id": "CUSA36827",
@@ -7488,7 +8158,9 @@
       "version": "01.03",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20594.png",
       "description": "Region: USA\nVersion: 01.03\nMin FW: 9.00\nSize: 8.32 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/visage-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-vsagps4/"
     },
     {
       "id": "CUSA00021",
@@ -7542,7 +8214,9 @@
       "version": "01.24",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA43272.png",
       "description": "Region: EUR\nVersion: 01.24\nMin FW: 9.00\nSize: 72.55 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/wwe-2k24-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-wwe2k2440yowmeps4/"
     },
     {
       "id": "CUSA13034",
@@ -7551,7 +8225,9 @@
       "version": "01.24",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13034.png",
       "description": "Region: EUR\nVersion: 01.24\nMin FW: 9.00\nSize: 38.11 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/watch-dogs-legion-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-wdlps4/"
     },
     {
       "id": "CUSA09406",
@@ -7560,7 +8236,9 @@
       "version": "01.09",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09406.png",
       "description": "Region: USA\nVersion: 01.09\nMin FW: 9.00\nSize: 10.02 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/we-happy-few-ps4-pkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4whf/"
     },
     {
       "id": "CUSA29054",
@@ -7569,7 +8247,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA29054.png",
       "description": "Region: EUR\nVersion: 01.02\nMin FW: 9.00\nSize: 0.15 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/webbed-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-wdps4-2/"
     },
     {
       "id": "CUSA17598",
@@ -7578,7 +8258,9 @@
       "version": "01.11",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA17598.png",
       "description": "Region: USA\nVersion: 01.11\nMin FW: 9.00\nSize: 3.89 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/weird-west-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-wwps4/"
     },
     {
       "id": "CUSA06886",
@@ -7587,7 +8269,9 @@
       "version": "01.01",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06886.png",
       "description": "Region: USA\nVersion: 01.01\nMin FW: 9.00\nSize: 2.45 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/what-remains-of-edith-finch-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-wroefps4/"
     },
     {
       "id": "CUSA07377",
@@ -7614,7 +8298,9 @@
       "version": "01.00",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01540.png",
       "description": "Region: USA\nVersion: 01.00\nMin FW: 9.00\nSize: 35.17 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/wolfenstein-the-old-blood-ps4-iso/",
+      "source_download_page": "https://www.superpsx.com/dll-ps4wtob/"
     },
     {
       "id": "CUSA13084",
@@ -7650,7 +8336,9 @@
       "version": "01.53",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14046.png",
       "description": "Region: USA\nVersion: 01.53\nMin FW: 9.00\nSize: 22.58 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/world-war-z-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-wwzps4/"
     },
     {
       "id": "CUSA00192",
@@ -7677,7 +8365,9 @@
       "version": "02.22",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08652.png",
       "description": "Region: EUR\nVersion: 02.22\nMin FW: 9.00\nSize: 20.37 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/wreckfest-deluxe-edition-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-wfdeps4/"
     },
     {
       "id": "CUSA04552",
@@ -7695,7 +8385,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05133.png",
       "description": "Region: EUR\nVersion: 01.05\nMin FW: 9.00\nSize: 22.19 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/yakuza-0-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ykz0ps4/"
     },
     {
       "id": "CUSA15325",
@@ -7731,7 +8423,9 @@
       "version": "01.05",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09032.png",
       "description": "Region: USA\nVersion: 01.05\nMin FW: 9.00\nSize: 34.03 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/yakuza-6-the-song-of-life-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-y6tsolps4/"
     },
     {
       "id": "CUSA06997",
@@ -7749,7 +8443,9 @@
       "version": "01.04",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10634.png",
       "description": "Region: USA\nVersion: 01.04\nMin FW: 9.00\nSize: 35.74 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/yakuza-kiwami-2-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-yk2ps4/"
     },
     {
       "id": "CUSA35113",
@@ -7758,7 +8454,9 @@
       "version": "01.10",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA35113.png",
       "description": "Region: EUR\nVersion: 01.10\nMin FW: 9.00\nSize: 0.75 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/you-suck-at-parking-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-ysapps4/"
     },
     {
       "id": "CUSA10576",
@@ -7776,7 +8474,9 @@
       "version": "01.02",
       "image": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06861.png",
       "description": "Region: USA\nVersion: 01.02\nMin FW: 9.00\nSize: 2.25 GB",
-      "releases": []
+      "releases": [],
+      "source_page": "https://www.superpsx.com/zero-escape-the-nonary-games-ps4-fpkg/",
+      "source_download_page": "https://www.superpsx.com/dll-zetngps4/"
     },
     {
       "id": "CUSA12583",
@@ -7797,4 +8497,4 @@
       "releases": []
     }
   ]
-}
+    }
